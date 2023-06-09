@@ -1,0 +1,169 @@
+.judul{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background-color: #C3DCE2;
+}
+
+.border {
+    width: 1343px;
+height: 243px;
+left: 44px;
+top: 221px;
+
+background: rgba(26, 145, 151, 0.97);
+border-radius: 10px;
+}
+
+.atas {
+        border: none;
+        border-radius: 10px;
+        margin-left: 100px;
+        width: 80px;
+        height: 30px;
+    
+}
+.atas2 {
+    border: none;
+    border-radius: 10px;
+    margin-left: 30px;
+    width: 80px;
+    height: 30px;
+}
+
+.atas3 {
+    border: none;
+    border-radius: 10px;
+    margin-left: 740px;
+    width: 80px;
+    height: 30px;
+
+}
+
+.atas4 {
+    border: none;
+    margin-left: 18px;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+
+}
+
+.pa1 {
+    width: 1155.28px;
+    height: 151px;
+    left: 150px;
+    top: 267px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    margin-left: 65px;
+    
+    color: #FFFFFF;
+}
+
+.a1 {
+    width: 623.19px;
+height: 146px;
+left: 46.03px;
+top: 506px;
+margin-left: -120px;
+
+background: rgba(232, 173, 173, 0.97);
+border-radius: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
+.a2 {
+    width: 623.19px;
+height: 146px;
+left: 46.03px;
+top: 506px;
+margin-left: 20px;
+
+background: rgba(36, 183, 192, 0.97);
+border-radius: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.a3 {
+    width: 623.19px;
+height: 146px;
+left: 46.03px;
+top: 506px;
+margin-left: -120px;
+
+background: rgba(144, 200, 130, 0.97);
+border-radius: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.a4 {
+    width: 623.19px;
+height: 146px;
+left: 46.03px;
+top: 506px;
+margin-left: 20px;
+
+background: rgba(240, 243, 61, 0.97);
+border-radius: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.tombol2 {
+    width: 100px;
+    height: 50px;
+    
+    border-radius: 10px;
+    border: none;
+    margin-left: 450px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}

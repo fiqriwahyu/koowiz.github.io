@@ -1,0 +1,27 @@
+.bg-register {
+    margin-top: 150px;    
+}
+
+body {
+    font-family: 'inter';
+    font-size: 15px;
+    color: #4A4F5C;
+    
+        background-color: #a4a5a6;
+      
+}
+
+.btn-primary {
+    color: white;
+    background-color: #CDB188;
+    
+}
+
+.shadow {
+        background-color: #CCD0D7;
+}
+
+.form-control {
+    background-color: #CCD0D7;
+    border-color: black;
+}

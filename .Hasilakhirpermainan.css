@@ -1,0 +1,86 @@
+body{
+    background-color: #C3DCE2;
+}
+.col-md-3 {
+    font-family: "calibri";
+    font-style: bold;
+}
+.tombol {
+    margin-left: 115px;
+    font-family: "calibri";
+    font-style: bold;
+}
+.tombol2
+{
+    font-family: "calibri";
+    font-style: bold;
+background: #1A9197;
+border-radius: 20px;
+border: none;
+}
+.judul {
+    font-family: "calibri";
+font-style: bold;
+font-weight: 700;
+font-size: 32px;
+line-height: 17px;
+}
+.border {
+    width: 637.9px;
+height: 222.38px;
+left: 397.49px;
+top: 239.43px;
+background: rgba(26, 145, 151, 0.97);
+border-radius: 10px;
+text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.container .border2 {
+
+margin: 10px 35px;
+width: 163.18px;
+height: 171.06px;
+left: 397.49px;
+top: 496.02px;
+background: rgba(26, 145, 151, 0.97);
+border-radius: 10px;
+}
+.a1 {
+    
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 20px;
+    margin-left: 150px;
+
+    color: #FFFFFF;}
+    .b1 {
+    
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 20px;
+        margin-left: 150px;
+        color: #FFFFFF;
+            text-align: center;
+        }
+        .atas3 {
+            
+            width: 80px;
+            height: 30px;
+            background-color: transparent;
+            border-radius: 20px;
+        
+        }
+        .container .piala1 {
+            margin: 10px 35px;}

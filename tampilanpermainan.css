@@ -1,0 +1,54 @@
+.atas {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+margin-top: 200px;
+}
+
+body{
+    background-color: #C3DCE2;
+}
+
+.pin {
+    width: 671px;
+    height: 84px;
+    left: 378px;
+    top: 450px;
+    
+    background: #FFFFFF;
+    border-radius: 20px;
+    border: none;
+}
+
+.tombol {
+    margin-left: 115px;
+}
+
+.tombol2 {
+    padding: 7px 130px;
+text-decoration: none;
+background: rgba(205, 177, 136, 0.97);
+border-radius: 20px;
+border: none;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.judul {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 17px;
+}

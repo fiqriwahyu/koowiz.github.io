@@ -1,0 +1,57 @@
+.judul{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+hr {
+    background-color: rgb(8, 8, 8);
+    height: 2px;
+}
+
+.navbar-brand a{
+    margin-bottom: 20px;
+}
+
+.geserkiri {
+    margin-left: 26px;
+}
+
+.tengah{
+    background: #C3DCE2;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.grs{
+    margin-bottom: 15px;
+}
+
+.saya {
+    margin-top: 100px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+}
+
+.bawah{
+text-decoration: none;
+padding: 5px 30px;
+border-radius:30px;
+background-color: #CDB188;
+color: white;
+border: none;
+margin-top: 40px;
+
+}
+
+.kanan{
+    background-color: #C3DCE2 ;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.grs{
+    margin-top: 22px;
+}

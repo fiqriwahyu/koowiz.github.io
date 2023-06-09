@@ -1,0 +1,29 @@
+.judul{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background-color: #C3DCE2;
+}
+
+.angka {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 77px;
+color: #C4DFE6
+;
+}
+.tombol{
+    font-family: sans-serif;
+    font-size: 15px;
+    background: hwb(36 53% 20%);
+                    color: white;
+                    border-radius: 30px;
+                    padding: 12px 60px;
+                    border: none;
+                    text-decoration: none;
+                    margin-left: 680px;
+}

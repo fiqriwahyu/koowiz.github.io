@@ -1,0 +1,14 @@
+body {
+    background-color: #545454;
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 15px;
+    background: hwb(36 53% 20%);
+    color: white;
+    border-radius: 30px;
+    padding: 12px 60px;
+    border: none;
+    
+}

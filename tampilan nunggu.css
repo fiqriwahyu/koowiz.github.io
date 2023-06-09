@@ -1,0 +1,31 @@
+.judul{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background-color: #C3DCE2;
+}
+
+.angka {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 77px;
+color: #C4DFE6;
+}
+
+.atas {
+    border: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 80px;
+    height: 30px;
+}
+
+.pemain {
+    
+    background-color: white;
+    border-radius: 20px;
+}
